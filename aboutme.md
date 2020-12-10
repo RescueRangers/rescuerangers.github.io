@@ -10,4 +10,4 @@ Wszystkie zamówienia wykonujemy indywidualnie według życzenia klienta. Słuzy
 Zapraszam do kontaktu
 
 *Własciciel Sebastian Drzewiecki*
-{: style="color:gray; font-size: 80%; text-align: center;"}
+{: style="color:gray; text-align: center;"}
